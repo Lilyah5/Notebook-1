@@ -1,2 +1,1 @@
-voila==0.2.6
-ipiwidgets==7.6.3
+voila==0.2.6 ipiwidgets==7.6.3
